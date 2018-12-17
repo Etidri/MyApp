@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        android:key="first_preferencescreen">
+    <EditTextPreference android:key="joueur1login"
+        android:title="Joueur 1"
+        android:summary="Indiquer le joueur 1 par défaut."
+        />
+    <EditTextPreference android:key="joueur2login"
+        android:title="Joueur 2"
+        android:summary="Indiquer le joueur 2 par défaut."
+        />
+    <EditTextPreference android:key="joueur3login"
+        android:title="Joueur 3"
+        android:summary="Indiquer le joueur 3 par défaut."
+        />
+    <EditTextPreference android:key="mot"
+        android:title="Mot"
+        android:summary="Indiquer le mot de recherche par défaut."
+        />
+</PreferenceScreen>

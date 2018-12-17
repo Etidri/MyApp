@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="nouvelle_partie">Nouvelle Partie !</string>
+    <string name="souvenirs">Souvenirs</string>
+    <string name="retour">Retour</string>
+</resources>
